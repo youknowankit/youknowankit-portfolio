@@ -21,15 +21,15 @@ This is my personal portfolio website built using **React**, **Tailwind CSS**, a
 
 ## 🖼️ Projects Showcase
 
-| #   | Project                          | Description                                                           | Live Preview | GitHub   |
-| --- | -------------------------------- | --------------------------------------------------------------------- | ------------ | -------- |
-| 1   | Portfolio                        | My personal portfolio site — built with React & Tailwind              | [Live]       | [GitHub] |
-| 2   | BodyFuel Gym                     | Gym website to practice React + Tailwind + responsive design          | [Live]       | [GitHub] |
-| 3   | React Form-Validation            | Demo for form validation using React & Tailwind                       | [Live]       | [GitHub] |
-| 4   | Weather App with Geolocation API | Fetches current location & shows weather — uses OpenWeather API       | [Live]       | [GitHub] |
-| 5   | Amazon.com Clone (HTML & CSS)    | Practice real-world layout & responsive design using vanilla HTML/CSS | [Live]       | [GitHub] |
+| #   | Project                          | Description                                                           | Live Preview                                      | GitHub                                                   |
+| --- | -------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------- |
+| 1   | Portfolio                        | My personal portfolio site — built with React & Tailwind              | [Live]                                            | [GitHub]                                                 |
+| 2   | BodyFuel Gym                     | Gym website to practice React + Tailwind + responsive design          | [https://bodyfuel-gym.netlify.app/]               | [https://github.com/youknowankit/bodyfuelgym]            |
+| 3   | React Form-Validation            | Demo for form validation using React & Tailwind                       | [https://reactformvalidationproject.netlify.app/] | [https://github.com/youknowankit/signup-form-validation] |
+| 4   | Weather App with Geolocation API | Fetches current location & shows weather — uses OpenWeather API       | [https://weatherapp-basic-vanillajs.netlify.app/] | [https://github.com/youknowankit/detailed-weather-app]   |
+| 5   | Amazon.com Clone (HTML & CSS)    | Practice real-world layout & responsive design using vanilla HTML/CSS | [https://amazonclonemodel.netlify.app/]           | [https://github.com/youknowankit/amazonClone-Project]    |
 
-> _(Replace `[Live]` and `[GitHub]` with actual URLs from your code.)_
+>
 
 ## ✅ Key Features
 
