@@ -12,8 +12,8 @@ const Projects = () => {
       title: "Portfolio",
       desc: "This is my portfolio built with react tailwind and lucid-react. It's fully responsive and you can also download resume for my details.",
       image: Portfolio,
-      live: "https://rohitsingh93300-portfolio.vercel.app/",
-      github: "https://github.com/rohitsingh93300/portfolio",
+      live: "https://youknowankit.netlify.app/",
+      github: "https://github.com/youknowankit/youknowankit-portfolio ",
     },
     {
       id: 2,
