@@ -26,7 +26,7 @@ const Projects = () => {
     {
       id: 3,
       title: "Portfolio Website",
-      desc: "The website features a clean and modern design, with sections for about me, projects, and contact information. It is optimized for both desktop and mobile devices, ensuring a seamless user experience across all platforms.",
+      desc: "The website features a clean and modern design, with sections for about me, projects, and contact information.",
       image: Portfolio,
       live: "https://youknowankit.netlify.app/",
       github: "https://github.com/youknowankit/youknowankit-portfolio",
