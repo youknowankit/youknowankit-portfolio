@@ -20,7 +20,7 @@ const Projects = () => {
       title: "Registration Form Validation",
       desc: "A project built to showcase the skills of form-validation using react & tailwind with logic to handle validation.",
       image: formValidation,
-      live: "https://reactformvalidationproject.netlify.app/",
+      live: "https://reactregisterformvalidation.netlify.app/",
       github: "https://github.com/youknowankit/signup-form-validation",
     },
     {
