@@ -10,7 +10,7 @@ const Projects = () => {
     {
       id: 1,
       title: "Image Finder App",
-      desc: "This project uses the unsplash API to fetch images based on the search query and also has a feature to view the image in high quality using lightbox. It is built using React and Tailwind CSS.",
+      desc: "This project uses the unsplash API to fetch images based on the search query and also has a feature to view the image in high quality using lightbox.",
       image: imageSearchApp,
       live: "https://reactimagefinderapp.netlify.app/",
       github: "https://github.com/youknowankit/react-image-search-app",
@@ -26,7 +26,7 @@ const Projects = () => {
     {
       id: 3,
       title: "Portfolio Website",
-      desc: "A responsive portfolio website built with React and Tailwind CSS to showcase my projects and skills.",
+      desc: "The website features a clean and modern design, with sections for about me, projects, and contact information. It is optimized for both desktop and mobile devices, ensuring a seamless user experience across all platforms.",
       image: Portfolio,
       live: "https://youknowankit.netlify.app/",
       github: "https://github.com/youknowankit/youknowankit-portfolio",
