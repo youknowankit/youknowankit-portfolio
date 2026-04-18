@@ -2,50 +2,51 @@ import Portfolio from "../assets/Portfolio.webp";
 import bodyFuel from "../assets/bodyfuel.webp";
 import formValidation from "../assets/formvalidation.webp";
 import weatherapp from "../assets/weatherapp.webp";
-import amazonclone from "../assets/amazonclone.webp";
+import imageSearchApp from "../assets/imageSearchApp.webp";
 import Cards from "./Cards";
 
 const Projects = () => {
   const projectJson = [
     {
       id: 1,
-      title: "Portfolio",
-      desc: "This is my portfolio built with react tailwind and lucid-react. It's fully responsive and you can also download resume for my details.",
-      image: Portfolio,
-      live: "https://youknowankit.netlify.app/",
-      github: "https://github.com/youknowankit/youknowankit-portfolio ",
+      title: "Image Finder App",
+      desc: "This project uses the unsplash API to fetch images based on the search query and also has a feature to view the image in high quality using lightbox. It is built using React and Tailwind CSS.",
+      image: imageSearchApp,
+      live: "https://reactimagefinderapp.netlify.app/",
+      github: "https://github.com/youknowankit/react-image-search-app",
     },
     {
       id: 2,
-      title: "BodyFuel Gym",
-      desc: "A gym website build to practice the concepts of react and tailwind CSS with the help of other libraries.",
-      image: bodyFuel,
-      live: "https://bodyfuel-gym.netlify.app/",
-      github: "https://github.com/youknowankit/bodyfuelgym",
-    },
-    {
-      id: 3,
-      title: "React Form-Validation",
+      title: "Registration Form Validation",
       desc: "A project built to showcase the skills of form-validation using react & tailwind with logic to handle validation.",
       image: formValidation,
       live: "https://reactformvalidationproject.netlify.app/",
       github: "https://github.com/youknowankit/signup-form-validation",
     },
     {
+      id: 3,
+      title: "Portfolio Website",
+      desc: "A responsive portfolio website built with React and Tailwind CSS to showcase my projects and skills.",
+      image: Portfolio,
+      live: "https://youknowankit.netlify.app/",
+      github: "https://github.com/youknowankit/youknowankit-portfolio",
+    },
+    {
       id: 4,
+      title: "BodyFuel Gym",
+      desc: "A gym website build to practice the concepts of react and tailwind CSS with the help of other libraries.",
+      image: bodyFuel,
+      live: "https://bodyfuel-gym.netlify.app/",
+      github: "https://github.com/youknowankit/bodyfuelgym",
+    },
+
+    {
+      id: 5,
       title: "Weather App with Geolocation API",
       desc: "App uses the geolocation api to fetch the app of current location and uses openweather API to fetch data. Also, contains detailed view.",
       image: weatherapp,
       live: "https://weatherapp-basic-vanillajs.netlify.app/",
       github: "https://github.com/youknowankit/detailed-weather-app",
-    },
-    {
-      id: 5,
-      title: "Amazon.com Clone using HTML, CSS",
-      desc: "A clone project to practice real-world layout and how to implement them using plain CSS for foundational Knowledge.",
-      image: amazonclone,
-      live: "https://amazonclonemodel.netlify.app/",
-      github: "https://github.com/youknowankit/amazonClone-Project",
     },
   ];
 
